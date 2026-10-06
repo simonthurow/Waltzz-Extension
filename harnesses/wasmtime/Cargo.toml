@@ -1,0 +1,8 @@
+[package]
+name = "wasmtime"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+afl = "0.15"
+wasmtime = "22.0.0"
